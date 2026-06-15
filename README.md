@@ -14,16 +14,6 @@ informatics Engineering student with interests in:
 
 I conducted research at the IoT and Intelligent Cloud Application Laboratory, National Formosa University (NFU), Taiwan through the IISMA Program.
 
-## 🚀 Featured Projects
-
-### Network QoS Monitoring System
-Distributed network monitoring platform using Raspberry Pi, MQTT, MariaDB, and a real-time dashboard.
-
-### Industrial Energy Monitoring System
-IoT-based platform for monitoring electrical energy consumption and analytics.
-
-### Hydroponic Monitoring System
-ESP32-based monitoring and automation system for hydroponic farming.
 
 ## 💻 Tech Stack
 
