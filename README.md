@@ -24,4 +24,13 @@ A Network QoS Monitor System on IP Networks
 
 ## 📫 Connect With Me
 
-LinkedIn | Email | GitHub
+🔗 LinkedIn: https://www.linkedin.com/in/putrinadhiyahsalsabila/
+📧 Email: [psalsa765@gmail.com](mailto:psalsa765@gmail.com)
+📷 Instagram: https://www.instagram.com/nnnaad____
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnnaad26&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnaad26&layout=compact&theme=tokyonight)
