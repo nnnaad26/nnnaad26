@@ -29,6 +29,16 @@ A Network QoS Monitor System on IP Networks
 
 ## 📫 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/putrinadhiyahsalsabila/
-📧 Email: [psalsa765@gmail.com](mailto:psalsa765@gmail.com)
-📷 Instagram: https://www.instagram.com/nnnaad____
+<p align="left">
+  <a href="https://www.linkedin.com/in/putrinadhiyahsalsabila/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Putri%20Nadhiyah%20Salsabila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:psalsa765@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-psalsa765%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.instagram.com/nnnaad____" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@nnnaad____-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
