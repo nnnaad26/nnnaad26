@@ -3,9 +3,6 @@
 Informatics engineering student with hands-on experience in IoT systems, embedded development, and applied research through international collaboration programs. Experienced in designing sensor-integrated solutions, real-time monitoring systems, and cloud-based data analytics, with strong interests in IoT, embedded systems, and intelligent infrastructure. 
 
 
-## 🛠 Tech Stack
-## 💻 Tech Stack
-
 ## 💻 Tech Stack
 
 <p>
